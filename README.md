@@ -10,5 +10,6 @@
 - Use destructuring to get the top student.
 - Use a ternary operator for Pass/Fail.
 
-Screenshot
+# Screenshot
+
 <img width="552" height="312" alt="image" src="https://github.com/user-attachments/assets/01fbd726-52bb-4231-816e-1c24b48672cb" />
